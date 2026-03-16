@@ -194,12 +194,12 @@ How to fix it:
 - ask the BIM authoring team to provide `IfcSite` data for IFC2X3 or map conversion data for IFC4
 - verify the exported IFC before sharing it with end users
 
+## References
+
+- [Add reference link title here](https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcMapConversion.htm)
 
 ## Related Features
 
 - [IFC Viewer](ifc-viewer.md)
 - [IFC Filters](ifc-filters.md)
 
-## References
-
-- [Add reference link title here](https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcMapConversion.htm)
